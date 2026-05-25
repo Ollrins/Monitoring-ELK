@@ -14,7 +14,7 @@ Cкриншот docker ps через 5 минут после старта все
 
 </p>
 
-Cкриншот интерфейса kibana
+Cкриншот интерфейса kibana (это без help)
   <br>
 <p align="center">
   <img src="s/S2.png" width="900"/>

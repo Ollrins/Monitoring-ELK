@@ -7,6 +7,7 @@ Cкриншот docker ps через 5 минут после старта все
 
 </p>
 Cкриншот docker ps через 5 минут после старта всех контейнеров с help 
+  <br>
 <p align="center">
   <img src="s/S3.png" width="900"/>
   <br>
@@ -14,6 +15,7 @@ Cкриншот docker ps через 5 минут после старта все
 </p>
 
 Cкриншот интерфейса kibana
+  <br>
 <p align="center">
   <img src="s/S2.png" width="900"/>
   <br>
